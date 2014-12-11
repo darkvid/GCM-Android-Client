@@ -107,7 +107,7 @@ public class MainActivity extends Activity {
 
 
     public void sendRegistrationIdtoBackend(String regID){
-
+        llamada API REST;
     }
 
     /**
